@@ -1,5 +1,5 @@
 // Google Analytics 4 Measurement ID (e.g. "G-XXXXXXX"). Leave '' to disable.
-export const GA_ID = '';
+export const GA_ID = 'G-M64L6B2F1J';
 
 // Site + banner settings. This is the single place to edit branding.
 
