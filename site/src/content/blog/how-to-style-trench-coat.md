@@ -7,7 +7,7 @@ image: "/images/trench-hero.jpg"
 shopUrl: "https://flolae.com/"
 shopLabel: "Visit Flolae"
 shopPitch: "Ready to build your perfect autumn wardrobe? Flolae launches soon — sign up to be first to shop timeless pieces like the classic trench."
-draft: false
+draft: true
 ---
 
 <p>If there's one coat that does it all, it's the trench. Timeless, flattering, and endlessly versatile, a good trench coat pulls almost any outfit together — from a jeans-and-tee run to a polished work look. As the weather cools, it's the piece you'll reach for again and again. Here's how to style a trench coat for every kind of day.</p>

@@ -7,7 +7,7 @@ image: "/images/nyc-fashion-hero.jpg"
 shopUrl: "https://flolae.com/"
 shopLabel: "Visit Flolae"
 shopPitch: "Love the NYC look? Flolae launches soon — sign up to be first to shop pieces that bring effortless New York style to your wardrobe."
-draft: false
+draft: true
 ---
 
 <p>If there's one city that sets the tone for effortless, wearable style, it's New York. This season's NYC fashion is all about <strong>intentional simplicity</strong> — one strong piece, clean silhouettes, and that undone "I just threw this on" confidence. Here's a quick roundup of the trends defining New York style right now, and how to bring the look home.</p>
