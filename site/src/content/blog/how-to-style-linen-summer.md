@@ -7,7 +7,7 @@ image: "/images/linen-hero.jpg"
 shopUrl: "https://flolae.com/"
 shopLabel: "Visit Flolae"
 shopPitch: "Love easy summer dressing? Flolae launches soon — sign up to be first to shop breezy, breathable warm-weather staples."
-draft: true
+draft: false
 ---
 
 <p>When it's hot, linen is your best friend. Breathable, lightweight, and effortlessly chic, it keeps you cool while looking relaxed and put-together — that "just back from somewhere sunny" ease. Here's how to style linen for summer, and how to wear it well.</p>
@@ -27,8 +27,8 @@ draft: true
 <p>A relaxed linen shirt is endlessly versatile. Wear it buttoned with shorts, open over a swimsuit as a beach cover-up, or knotted at the waist over a dress. In white or a soft neutral, it goes with everything.</p>
 
 <figure>
-  <img src="/images/linen-set.jpg" alt="Matching linen set styled for a warm summer day" width="1054" height="1400" loading="lazy" />
-  <figcaption>A matching linen set is the easiest way to look polished in the heat.</figcaption>
+  <img src="/images/linen-look.jpg" alt="Woman in a flowing linen dress layered with a light linen shirt and a straw hat in a summer meadow" width="1054" height="1400" loading="lazy" />
+  <figcaption>A flowing linen dress with an easy linen layer — effortless summer ease.</figcaption>
 </figure>
 
 <h2>3. The easy linen set</h2>

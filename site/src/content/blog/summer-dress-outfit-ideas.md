@@ -7,7 +7,7 @@ image: "/images/summer-dress-hero.jpg"
 shopUrl: "https://flolae.com/"
 shopLabel: "Visit Flolae"
 shopPitch: "Building your summer wardrobe? Flolae launches soon — sign up to be first to shop easy, breezy warm-weather pieces."
-draft: true
+draft: false
 ---
 
 <p>When the temperature climbs, nothing beats a dress — it's the ultimate one-and-done outfit. Throw it on and you're ready, cool, and put-together in seconds. But the same dress can take you from a beach walk to a dinner out with just a few tweaks. Here are easy summer dress outfit ideas to get the most out of every piece.</p>
@@ -30,8 +30,8 @@ draft: true
 <p>Take the same summer dress into the evening with a pair of heeled sandals, a few pieces of gold jewelry, and a small shoulder bag. A slim belt to define the waist and you've got an effortless warm-night outfit.</p>
 
 <figure>
-  <img src="/images/summer-dress-evening.jpg" alt="Summer dress styled for evening with sandals and simple accessories" width="1054" height="1400" loading="lazy" />
-  <figcaption>The same dress, dressed up: heeled sandals and a little gold jewelry.</figcaption>
+  <img src="/images/summer-dress-look.jpg" alt="Woman in a breezy tiered summer dress with flat sandals and a straw bag on a sunny street" width="1054" height="1400" loading="lazy" />
+  <figcaption>A floaty dress, flat sandals, and a straw tote — easy summer style in seconds.</figcaption>
 </figure>
 
 <h2>Summer dress styling tips</h2>
