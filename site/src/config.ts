@@ -4,7 +4,7 @@ export const GA_ID = 'G-M64L6B2F1J';
 // Site + banner settings. This is the single place to edit branding.
 
 export const SITE = {
-  name: 'The Flolae Edit',
+  name: 'The Style Edit',
   tagline: 'Everyday style tips, trends & outfit ideas',
   // Header hero background image. Leave '' for a clean gradient header.
   heroImage: '',
