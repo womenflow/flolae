@@ -1,0 +1,35 @@
+---
+import { BANNER } from '../config';
+
+interface Props {
+  href?: string;
+}
+const { href } = Astro.props;
+const linkUrl = href ?? BANNER.linkUrl;
+---
+
+{
+  BANNER.photoUrl ? (
+    <a
+      class="banner-photo"
+      href={linkUrl}
+      target="_blank"
+      rel="noopener sponsored"
+      aria-label={`${BANNER.name} — ${BANNER.ctaLabel}`}
+      style={`background-image:url('${BANNER.photoUrl}')`}
+    >
+      <span class="banner-scrim" />
+      <span class="banner-text">
+        <span class="banner-name">{BANNER.name}</span>
+        <span class="banner-sub">{BANNER.subtext}</span>
+        <span class="banner-cta">{BANNER.ctaLabel}</span>
+      </span>
+    </a>
+  ) : (
+    <a class="banner-grad" href={linkUrl} target="_blank" rel="noopener sponsored">
+      <span class="banner-name">{BANNER.name}</span>
+      <span class="banner-sub">{BANNER.subtext}</span>
+      <span class="banner-cta">{BANNER.ctaLabel}</span>
+    </a>
+  )
+}

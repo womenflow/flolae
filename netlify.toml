@@ -1,0 +1,7 @@
+# Netlify builds the Astro site. The blog lives in the site/ subfolder.
+# Connecting this repo to Netlify auto-deploys on every push.
+
+[build]
+  base = "site"
+  command = "npm run build"
+  publish = "dist"

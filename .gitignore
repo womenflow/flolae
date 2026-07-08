@@ -1,0 +1,13 @@
+.env
+output/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Astro / Node
+site/node_modules/
+site/dist/
+site/.astro/
+
+# Keep site/src/content/blog/ (your posts) — do NOT ignore it.
