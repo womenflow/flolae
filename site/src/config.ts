@@ -17,7 +17,7 @@ export const BANNER = {
   photoUrl: '/images/bubblelime-banner-photo.jpg',
   name: 'Bubblelime',
   subtext: 'Activewear that moves with you.',
-  ctaLabel: 'Shop the collection →',
+  ctaLabel: 'Shop on Bubblelime.com',
   amazonUrl:
     'https://www.amazon.com/stores/BUBBLELIMESPORTSWEAR/page/96D4D667-F31E-494F-9562-0EDD6EBEED44',
 };
