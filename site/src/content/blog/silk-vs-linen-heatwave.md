@@ -1,9 +1,9 @@
 ---
 title: "Silk vs. Linen: Which Luxury Fabric Actually Survives a Heatwave?"
 description: "Silk or linen for hot weather? A no-nonsense guide to how each luxury fabric feels, breathes, and holds up when the temperature climbs."
-pubDate: 2026-07-10T08:00:00Z
+pubDate: 2026-07-09T22:12:26Z
 tags: ["luxury fabric", "silk", "linen", "summer style"]
-draft: true
+draft: false
 image: "/images/flolae-s1.png"
 ---
 
