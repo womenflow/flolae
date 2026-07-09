@@ -1,0 +1,34 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" role="img" aria-label="Silk versus linen comparison for hot weather">
+  <rect x="0" y="0" width="720" height="400" fill="#ffffff"/>
+  <text x="36" y="42" font-size="24" font-weight="700" fill="#1a1a1a">Silk vs. Linen at a Glance</text>
+  <text x="36" y="65" font-size="14" fill="#6b7280">Which luxury fabric actually survives the heat?</text>
+  <!-- column headers -->
+  <rect x="300" y="86" width="190" height="40" rx="8" fill="#efe7dd"/>
+  <text x="395" y="112" font-size="16" font-weight="700" fill="#7a5c3a" text-anchor="middle">Silk</text>
+  <rect x="500" y="86" width="190" height="40" rx="8" fill="#e3efe7"/>
+  <text x="595" y="112" font-size="16" font-weight="700" fill="#1f6f43" text-anchor="middle">Linen</text>
+  <!-- rows -->
+  <g font-size="13.5">
+    <text x="36" y="156" font-weight="700" fill="#1a1a1a">Feel</text>
+    <text x="395" y="156" fill="#4b5563" text-anchor="middle">Cool, smooth, liquid drape</text>
+    <text x="595" y="156" fill="#4b5563" text-anchor="middle">Crisp, airy, textured</text>
+    <line x1="36" y1="172" x2="684" y2="172" stroke="#eee"/>
+    <text x="36" y="200" font-weight="700" fill="#1a1a1a">Breathability</text>
+    <text x="395" y="200" fill="#4b5563" text-anchor="middle">Good</text>
+    <text x="595" y="200" fill="#1f6f43" text-anchor="middle" font-weight="700">Excellent</text>
+    <line x1="36" y1="216" x2="684" y2="216" stroke="#eee"/>
+    <text x="36" y="244" font-weight="700" fill="#1a1a1a">Sweat-friendly</text>
+    <text x="395" y="244" fill="#c0392b" text-anchor="middle" font-weight="700">✗  No</text>
+    <text x="595" y="244" fill="#1f6f43" text-anchor="middle" font-weight="700">✓  Yes</text>
+    <line x1="36" y1="260" x2="684" y2="260" stroke="#eee"/>
+    <text x="36" y="288" font-weight="700" fill="#1a1a1a">Wrinkles</text>
+    <text x="395" y="288" fill="#4b5563" text-anchor="middle">Minimal</text>
+    <text x="595" y="288" fill="#4b5563" text-anchor="middle">Lots (on purpose)</text>
+    <line x1="36" y1="304" x2="684" y2="304" stroke="#eee"/>
+    <text x="36" y="332" font-weight="700" fill="#1a1a1a">Best for</text>
+    <text x="395" y="332" fill="#4b5563" text-anchor="middle">Cool evenings</text>
+    <text x="595" y="332" fill="#4b5563" text-anchor="middle">All-day heat</text>
+  </g>
+  <rect x="36" y="356" width="648" height="30" rx="8" fill="#e3efe7"/>
+  <text x="360" y="376" font-size="13.5" font-weight="700" fill="#1f6f43" text-anchor="middle">Heatwave winner: Linen — own both, choose by the hour</text>
+</svg>

@@ -42,6 +42,10 @@ Yes, it wrinkles. But here's the reframe: **on linen, wrinkles read as "relaxed,
 | Wrinkles | Minimal | Lots (on purpose) |
 | Best for | Evenings | All-day heat |
 
+Here's the whole comparison in one look:
+
+![Silk vs linen comparison chart](/images/flolae-diagram.svg)
+
 ## So, Who Wins the Heatwave?
 For an actual heatwave — the kind where you're outside and moving — **linen takes it, easily.** It's built for this. Silk is the showpiece you save for a cool, calm evening where you won't ask too much of it.
 
